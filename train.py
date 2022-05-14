@@ -3,6 +3,8 @@ from transformers import DataCollatorForLanguageModeling, GPT2Config, GPT2LMHead
 from datasets import load_dataset
 
 
+path = 'data.txt'
+
 inp = "print(hello)"
 
 

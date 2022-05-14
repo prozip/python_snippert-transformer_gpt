@@ -2,6 +2,7 @@ github_token.txt
 
 
 repos/
+model_out/
 data.txt
 
 begin.py
